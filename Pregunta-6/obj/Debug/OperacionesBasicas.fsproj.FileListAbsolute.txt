@@ -1,0 +1,10 @@
+c:\users\orlando\documents\visual studio 2012\Projects\OperacionesBasicas\OperacionesBasicas\bin\Debug\OperacionesBasicas.exe.config
+c:\users\orlando\documents\visual studio 2012\Projects\OperacionesBasicas\OperacionesBasicas\bin\Debug\OperacionesBasicas.XML
+c:\users\orlando\documents\visual studio 2012\Projects\OperacionesBasicas\OperacionesBasicas\bin\Debug\OperacionesBasicas.exe
+c:\users\orlando\documents\visual studio 2012\Projects\OperacionesBasicas\OperacionesBasicas\bin\Debug\OperacionesBasicas.pdb
+c:\users\orlando\documents\visual studio 2012\Projects\OperacionesBasicas\OperacionesBasicas\bin\Debug\FSharp.Core.dll
+c:\users\orlando\documents\visual studio 2012\Projects\OperacionesBasicas\OperacionesBasicas\bin\Debug\FSharp.Core.xml
+c:\users\orlando\documents\visual studio 2012\Projects\OperacionesBasicas\OperacionesBasicas\bin\Debug\es\FSharp.Core.resources.dll
+c:\users\orlando\documents\visual studio 2012\Projects\OperacionesBasicas\OperacionesBasicas\obj\Debug\OperacionesBasicas.fsprojResolveAssemblyReference.cache
+c:\users\orlando\documents\visual studio 2012\Projects\OperacionesBasicas\OperacionesBasicas\obj\Debug\OperacionesBasicas.exe
+c:\users\orlando\documents\visual studio 2012\Projects\OperacionesBasicas\OperacionesBasicas\obj\Debug\OperacionesBasicas.pdb

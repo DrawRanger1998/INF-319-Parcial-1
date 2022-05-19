@@ -1,0 +1,18 @@
+c:\users\orlando\documents\visual studio 2012\Projects\CalculadoraWindows\CalculadoraWindows\bin\Debug\CalculadoraWindows.exe.config
+c:\users\orlando\documents\visual studio 2012\Projects\CalculadoraWindows\CalculadoraWindows\bin\Debug\CalculadoraWindows.exe
+c:\users\orlando\documents\visual studio 2012\Projects\CalculadoraWindows\CalculadoraWindows\bin\Debug\CalculadoraWindows.pdb
+c:\users\orlando\documents\visual studio 2012\Projects\CalculadoraWindows\CalculadoraWindows\obj\Debug\CalculadoraWindows.csprojResolveAssemblyReference.cache
+c:\users\orlando\documents\visual studio 2012\Projects\CalculadoraWindows\CalculadoraWindows\obj\Debug\CalculadoraWindows.Form1.resources
+c:\users\orlando\documents\visual studio 2012\Projects\CalculadoraWindows\CalculadoraWindows\obj\Debug\CalculadoraWindows.Properties.Resources.resources
+c:\users\orlando\documents\visual studio 2012\Projects\CalculadoraWindows\CalculadoraWindows\obj\Debug\CalculadoraWindows.csproj.GenerateResource.Cache
+c:\users\orlando\documents\visual studio 2012\Projects\CalculadoraWindows\CalculadoraWindows\obj\Debug\CalculadoraWindows.exe
+c:\users\orlando\documents\visual studio 2012\Projects\CalculadoraWindows\CalculadoraWindows\obj\Debug\CalculadoraWindows.pdb
+C:\Users\Orlando\Desktop\INF-319-Parcial\Pregunta-2\bin\Debug\CalculadoraWindows.exe.config
+C:\Users\Orlando\Desktop\INF-319-Parcial\Pregunta-2\obj\Debug\CalculadoraWindows.exe
+C:\Users\Orlando\Desktop\INF-319-Parcial\Pregunta-2\obj\Debug\CalculadoraWindows.pdb
+C:\Users\Orlando\Desktop\INF-319-Parcial\Pregunta-2\bin\Debug\CalculadoraWindows.exe
+C:\Users\Orlando\Desktop\INF-319-Parcial\Pregunta-2\bin\Debug\CalculadoraWindows.pdb
+C:\Users\Orlando\Desktop\INF-319-Parcial\Pregunta-2\obj\Debug\CalculadoraWindows.csprojResolveAssemblyReference.cache
+C:\Users\Orlando\Desktop\INF-319-Parcial\Pregunta-2\obj\Debug\CalculadoraWindows.Form1.resources
+C:\Users\Orlando\Desktop\INF-319-Parcial\Pregunta-2\obj\Debug\CalculadoraWindows.Properties.Resources.resources
+C:\Users\Orlando\Desktop\INF-319-Parcial\Pregunta-2\obj\Debug\CalculadoraWindows.csproj.GenerateResource.Cache

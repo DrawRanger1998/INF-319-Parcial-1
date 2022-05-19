@@ -1,0 +1,20 @@
+c:\users\orlando\documents\visual studio 2012\Projects\Ordenar3Numeros\Ordenar3Numeros\bin\Debug\Ordenar3Numeros.exe.config
+c:\users\orlando\documents\visual studio 2012\Projects\Ordenar3Numeros\Ordenar3Numeros\bin\Debug\Ordenar3Numeros.exe
+c:\users\orlando\documents\visual studio 2012\Projects\Ordenar3Numeros\Ordenar3Numeros\bin\Debug\Ordenar3Numeros.pdb
+c:\users\orlando\documents\visual studio 2012\Projects\Ordenar3Numeros\Ordenar3Numeros\bin\Debug\Ordenar3Numeros.xml
+c:\users\orlando\documents\visual studio 2012\Projects\Ordenar3Numeros\Ordenar3Numeros\obj\Debug\Ordenar3Numeros.Resources.resources
+c:\users\orlando\documents\visual studio 2012\Projects\Ordenar3Numeros\Ordenar3Numeros\obj\Debug\Ordenar3Numeros.vbproj.GenerateResource.Cache
+c:\users\orlando\documents\visual studio 2012\Projects\Ordenar3Numeros\Ordenar3Numeros\obj\Debug\Ordenar3Numeros.exe
+c:\users\orlando\documents\visual studio 2012\Projects\Ordenar3Numeros\Ordenar3Numeros\obj\Debug\Ordenar3Numeros.xml
+c:\users\orlando\documents\visual studio 2012\Projects\Ordenar3Numeros\Ordenar3Numeros\obj\Debug\Ordenar3Numeros.pdb
+C:\Users\Orlando\Documents\Visual Studio 2012\Projects\Ordenar3Numeros\Ordenar3Numeros\obj\Debug\Ordenar3Numeros.Formm1.resources
+C:\Users\Orlando\Desktop\INF-319-Parcial\Pregunta-1\bin\Debug\Ordenar3Numeros.exe.config
+C:\Users\Orlando\Desktop\INF-319-Parcial\Pregunta-1\obj\Debug\Ordenar3Numeros.exe
+C:\Users\Orlando\Desktop\INF-319-Parcial\Pregunta-1\obj\Debug\Ordenar3Numeros.xml
+C:\Users\Orlando\Desktop\INF-319-Parcial\Pregunta-1\obj\Debug\Ordenar3Numeros.pdb
+C:\Users\Orlando\Desktop\INF-319-Parcial\Pregunta-1\bin\Debug\Ordenar3Numeros.exe
+C:\Users\Orlando\Desktop\INF-319-Parcial\Pregunta-1\bin\Debug\Ordenar3Numeros.pdb
+C:\Users\Orlando\Desktop\INF-319-Parcial\Pregunta-1\bin\Debug\Ordenar3Numeros.xml
+C:\Users\Orlando\Desktop\INF-319-Parcial\Pregunta-1\obj\Debug\Ordenar3Numeros.Form1.resources
+C:\Users\Orlando\Desktop\INF-319-Parcial\Pregunta-1\obj\Debug\Ordenar3Numeros.Resources.resources
+C:\Users\Orlando\Desktop\INF-319-Parcial\Pregunta-1\obj\Debug\Ordenar3Numeros.vbproj.GenerateResource.Cache
